@@ -95,11 +95,11 @@
       <description>&lt;p&gt;This is my first post, how exciting!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About me</title>
+      <title>关于我</title>
       <link>https://wizardleaves.github.io/akarec.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>akarec@amnefox.com (Akarec)</author>
       <guid>https://wizardleaves.github.io/akarec.github.io/page/about/</guid>
-      <description>&lt;p&gt;My name is Inigo Montoya. I have the following qualities:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I rock a great mustache&lt;/li&gt;&#xA;&lt;li&gt;I&amp;rsquo;m extremely loyal to my family&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;What else do you need?&lt;/p&gt;&#xA;&lt;h3 id=&#34;my-history&#34;&gt;my history&lt;/h3&gt;&#xA;&lt;p&gt;To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29&#34;&gt;my movie&lt;/a&gt; and it will answer &lt;strong&gt;all&lt;/strong&gt; your questions.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;我-是谁&#34;&gt;*我* 是谁？&lt;/h3&gt;&#xA;&lt;p&gt;__*我*__是Akarec，一名野生的游戏开发者（大概）。&lt;/p&gt;&#xA;&lt;p&gt;__*我*&lt;strong&gt;也有一些别的马甲，但麻烦在联系&lt;/strong&gt;*我*__时不要使用其他马甲称呼我，感谢！&lt;/p&gt;&#xA;&lt;h3 id=&#34;这里-是哪&#34;&gt;*这里* 是哪？&lt;/h3&gt;&#xA;&lt;p&gt;这里是__*我*__的博客。我可能在闲的时候写一些随笔放在这里。&lt;/p&gt;&#xA;&lt;p&gt;至于什么时候写，写什么样的内容，看心情。&lt;/p&gt;&#xA;&lt;p&gt;也许是程序技术相关，也许是游戏策划方向，也有可能单纯是随笔，都有可能。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
